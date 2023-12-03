@@ -17,7 +17,18 @@ func TestGetMaxString2(t *testing.T) {
 	s := "asdbuiodevauufgh"
 	flaw := 3
 	maxLen := getMaxString(flaw, s)
-	res := len("asdbuio")
+	res := len("uiodevauu")
+
+	if maxLen != res {
+		t.Errorf("errer result: %d,expect %d", maxLen, res)
+	}
+}
+
+func TestGetMaxString3(t *testing.T) {
+	s := "asdbuiodevauufghaeiou"
+	flaw := 3
+	maxLen := getMaxString(flaw, s)
+	res := len("auufghaeiou")
 
 	if maxLen != res {
 		t.Errorf("errer result: %d,expect %d", maxLen, res)
