@@ -3,6 +3,8 @@
 
 [田忌赛马](https://github.com/light-pan/algorithm_code/tree/main/race_horse)
 
+[字符串拼接](https://github.com/light-pan/algorithm_code/tree/main/splicing_string)
+
 [最小矩阵宽度](https://github.com/light-pan/algorithm_code/tree/main/min_matrix_width)
 
 [最长的指定瑕疵度的元音子串](https://github.com/light-pan/algorithm_code/tree/main/max_vowel_sub_string)
