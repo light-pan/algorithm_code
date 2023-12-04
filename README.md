@@ -3,6 +3,8 @@
 
 [田忌赛马](https://github.com/light-pan/algorithm_code/tree/main/race_horse)
 
+[中文分词模拟器](https://github.com/light-pan/algorithm_code/tree/main/chinese_word_segmentation_simulator)
+
 [字符串拼接](https://github.com/light-pan/algorithm_code/tree/main/splicing_string)
 
 [最小矩阵宽度](https://github.com/light-pan/algorithm_code/tree/main/min_matrix_width)

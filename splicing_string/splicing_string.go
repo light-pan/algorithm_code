@@ -47,7 +47,7 @@ func dfs(s string, prevChar string, length int) {
 		} else if i == len(s)-1 {
 			newStr = s[0 : len(s)-1]
 		} else {
-			newStr = s[0:i] + s[i+1:len(s)]
+			newStr = s[0:i] + s[i+1:]
 		}
 		dfs(newStr, char, length-1)
 	}
