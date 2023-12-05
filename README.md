@@ -2,6 +2,8 @@
 
 [田忌赛马](https://github.com/light-pan/algorithm_code/tree/main/race_horse)
 
+[找城市](https://github.com/light-pan/algorithm_code/tree/main/find_city) 
+
 [找数字](https://github.com/light-pan/algorithm_code/tree/main/find_number) 
 
 [智能驾驶](https://github.com/light-pan/algorithm_code/tree/main/intelligent_driving) 
