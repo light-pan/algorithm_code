@@ -2,6 +2,8 @@
 
 [田忌赛马](https://github.com/light-pan/algorithm_code/tree/main/race_horse)
 
+[员工派遣](https://github.com/light-pan/algorithm_code/tree/main/employee_dispatch) 
+
 [园区参观路径](https://github.com/light-pan/algorithm_code/tree/main/park_visit_path) 
 
 [运输时间](https://github.com/light-pan/algorithm_code/tree/main/transport_time) 
